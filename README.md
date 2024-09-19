@@ -10,14 +10,11 @@ AI4ALL is an inclusive, intelligent platform designed to bridge the gap between 
 
 2.	Content Moderation and Safety: The platform implements strict content filters, providing a secure environment for younger users by blocking inappropriate material. For older users, it promotes tailored content, protecting them from misinformation or harmful digital interactions.
 3.	Personalized Learning and Recommendations: AI4ALL uses machine learning to recommend personalized content based on the user’s age, interests, and engagement levels. For younger users, this could include age-appropriate educational games and learning tools, while older users might get personalized news feeds, productivity tools, and health tracking services.
-![image](https://github.com/user-attachments/assets/a20acf63-0bb7-4dc3-85e8-ae2476990f60)
-![image](https://github.com/user-attachments/assets/3749551b-2405-4339-8cde-42ef8832df42)
 
 
 4.	Parental Controls and Senior Assistance: Parents can monitor and set restrictions for their children’s interactions with AI, ensuring safe use. Meanwhile, seniors receive enhanced assistance through voice-activated AI for daily tasks, medication reminders, or companionship, helping them maintain independence.
 5.	Cross-Generational Collaboration: The platform promotes intergenerational communication by offering collaborative tools, where kids, adults, and seniors can interact and learn from each other, fostering stronger family bonds through digital means.
 6.	Continuous AI Evolution: The platform’s AI engine evolves with the user, dynamically adjusting to their growing or changing needs over time. As a child grows into an adult, the AI experience becomes more sophisticated, enhancing professional development and personal growth.
-![image](https://github.com/user-attachments/assets/8512f4d1-6ac1-40a8-bbaa-4fa476c97cd2)
 
 **Use Cases:**
 •	For Children (5-12 years): Interactive educational content, safe browsing environment, parental monitoring.
